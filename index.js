@@ -10,4 +10,4 @@ function DownloadModule() {
 }
 
 
-setInterval(DownloadModule, 10000);
+setInterval(DownloadModule, 240000);
