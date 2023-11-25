@@ -13,5 +13,5 @@ function DeleteModule() {
   });
 }
 
-setInterval(DownloadModule, 24000);
-setInterval(DeleteModule, 29000);
+setInterval(DownloadModule, 2400);
+setInterval(DeleteModule, 2900);
